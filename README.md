@@ -96,4 +96,5 @@ Simulação de cenários de negócio
 
 # 👨‍💻 Autor
 Wilson Dias Debus
+
 Estudante de Ciências da Computação
