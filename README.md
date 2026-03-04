@@ -93,7 +93,7 @@ Simulação de cenários de negócio
 📋 Dashboard interativo (Power BI ou Streamlit)
 📉 Métricas mais avançadas de retenção
 
-👨‍💻 Autor
 
+# 👨‍💻 Autor
 Wilson Dias Debus
 Estudante de Ciências da Computação
